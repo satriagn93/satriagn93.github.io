@@ -414,7 +414,7 @@ pre {
 header.desktop-header-1 {
   color: #FFF;
   border-right: solid 1px rgba(255, 255, 255, 0.1);
-  background: #353353;
+  background: #13131f;
   padding: 50px 40px 40px;
   position: fixed;
   left: 0;
@@ -655,7 +655,7 @@ header.desktop-header-2.light .vertical-menu li i {
 }
 
 header.mobile-header-1 {
-  background: #353353;
+  background: #f11c99;
   display: none;
   padding: 10px 0;
   -webkit-transition: all 0.3s ease-in-out;
@@ -875,7 +875,7 @@ section {
 }
 
 section.home {
-  background: #353353;
+  background: #12111b;
   padding: 0;
   height: 100vh;
   min-height: 100vh;
